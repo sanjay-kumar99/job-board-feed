@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend Engineer",
+    "company": "Acme Labs",
+    "location": "Bengaluru, India",
+    "salary": 1200000,
+    "postedAt": "2025-09-01",
+    "description": "Build UI with React and Tailwind. 3+ years experience."
+  },
+  {
+    "id": "2",
+    "title": "Backend Developer",
+    "company": "BetaSoft",
+    "location": "Pune, India",
+    "salary": 1000000,
+    "postedAt": "2025-08-25",
+    "description": "Node.js, Express, PostgreSQL."
+  },
+  {
+    "id": "3",
+    "title": "Fullstack Developer",
+    "company": "GammaWorks",
+    "location": "Remote",
+    "salary": 1500000,
+    "postedAt": "2025-09-05",
+    "description": "React + Node.js + cloud deployment."
+  },
+  {
+    "id": "4",
+    "title": "Junior Developer",
+    "company": "Acme Labs",
+    "location": "Hyderabad, India",
+    "salary": 600000,
+    "postedAt": "2025-08-20",
+    "description": "Entry level, eager to learn."
+  },
+  {
+    "id": "5",
+    "title": "UI/UX Designer",
+    "company": "DesignHub",
+    "location": "Mumbai, India",
+    "salary": 900000,
+    "postedAt": "2025-09-03",
+    "description": "Figma, prototyping, user research."
+  },
+  {
+    "id": "6",
+    "title": "Data Engineer",
+    "company": "DataPoint",
+    "location": "Remote",
+    "salary": 1400000,
+    "postedAt": "2025-08-30",
+    "description": "ETL, data pipelines, Spark."
+  },
+  {
+    "id": "7",
+    "title": "DevOps Engineer",
+    "company": "BetaSoft",
+    "location": "Bengaluru, India",
+    "salary": 1300000,
+    "postedAt": "2025-09-06",
+    "description": "Kubernetes, CI/CD pipelines."
+  },
+  {
+    "id": "8",
+    "title": "Mobile Developer (React Native)",
+    "company": "Mobify",
+    "location": "Chennai, India",
+    "salary": 1100000,
+    "postedAt": "2025-09-02",
+    "description": "React Native, Android & iOS deployment."
+  },
+  {
+    "id": "9",
+    "title": "QA Engineer",
+    "company": "Acme Labs",
+    "location": "Pune, India",
+    "salary": 800000,
+    "postedAt": "2025-08-28",
+    "description": "Automation testing using Cypress."
+  },
+  {
+    "id": "10",
+    "title": "Product Manager",
+    "company": "DesignHub",
+    "location": "Remote",
+    "salary": 1600000,
+    "postedAt": "2025-08-15",
+    "description": "Lead product initiatives and roadmap."
+  },
+  {
+    "id": "11",
+    "title": "Machine Learning Engineer",
+    "company": "DataPoint",
+    "location": "Bengaluru, India",
+    "salary": 1700000,
+    "postedAt": "2025-09-04",
+    "description": "Model building, deployment and monitoring."
+  },
+  {
+    "id": "12",
+    "title": "Systems Engineer",
+    "company": "InfraCorp",
+    "location": "Delhi, India",
+    "salary": 950000,
+    "postedAt": "2025-08-22",
+    "description": "Cloud infra and networking."
+  },
+  {
+    "id": "13",
+    "title": "Technical Writer",
+    "company": "Acme Labs",
+    "location": "Remote",
+    "salary": 700000,
+    "postedAt": "2025-07-30",
+    "description": "Create docs, guides and API docs."
+  },
+  {
+    "id": "14",
+    "title": "Site Reliability Engineer",
+    "company": "InfraCorp",
+    "location": "Mumbai, India",
+    "salary": 1450000,
+    "postedAt": "2025-09-07",
+    "description": "On-call, SLIs, production stability."
+  },
+  {
+    "id": "15",
+    "title": "Customer Success Manager",
+    "company": "ClientFirst",
+    "location": "Remote",
+    "salary": 850000,
+    "postedAt": "2025-08-10",
+    "description": "Manage enterprise accounts and retention."
+  }
+]
